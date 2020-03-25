@@ -84,5 +84,6 @@ while jk < 10:
 	else:
 		print("\nSomething Went Wrong!!")
 	jk+=1
+	input('Press Enter To Continue ')
 print("\n<---- Game Over ---->") 	
 results()			
